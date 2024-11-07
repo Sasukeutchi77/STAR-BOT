@@ -7,12 +7,12 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['2347045035241', 'EXCEL', true],
+  ['22607603281', 'EXCEL', true],
   [''], 
   [''] 
 ] //Number of owners
 
-//global.pairingNumber = "2347045035241" //put your bot number here
+//global.pairingNumber = "22607603281" //put your bot number here
 
 global.mods = ['2347045035241','2348021779696'] 
 global.prems = ['2347045035241', '2348021779696', '2347045038687']
@@ -50,7 +50,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '©STAR-MD-V2'
+global.botname = '༒𝛭𝛪𝛫𝛯𝑌 𝑆𝛥𝛮𝛩卍'
 global.premium = 'true'
 global.packname = '©𝚂𝚃𝙰𝚁-𝙼𝙳' 
 global.author = '@𝙴𝚡𝚌𝚎𝚕' 
